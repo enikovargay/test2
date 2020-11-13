@@ -1,0 +1,12 @@
+{
+  "name": "initFiles",
+  "displayName": "initFiles",
+  "expo": {
+    "name": "initFiles",
+    "slug": "initFiles",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
